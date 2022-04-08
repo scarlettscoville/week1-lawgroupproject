@@ -1,4 +1,4 @@
 # week1-lawgroupproject
 
-Dream Team:
-  Dakodah, Scarlett, Niko, and Grady
+<h1>Dream Team:</h1>
+  <h2>Dakodah, Scarlett, Niko, and Grady</h2>

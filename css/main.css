@@ -37,7 +37,7 @@ img#forwardThinking {
 
 
 #footer-main { 
-    margin-top: 100px;
+    margin-top: 25px;
 
 }
 
@@ -58,7 +58,7 @@ li.list-group-item.where {
 
 
 nav.navbar {
-    border: solid black;
+    border-top: solid black;
 }
 
 h2 > hr {

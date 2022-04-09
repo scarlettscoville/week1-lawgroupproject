@@ -31,6 +31,5 @@
   - 
 
 
-  **Grady** 
-  - Collaborated with team on nav bars
-  - Background image
+  Grady - Collaborated with team on nav bars, build css/html code for main background image and container for content, modal for login button
+  Grady - Collaborated with team on nav bars, background image, page spacing

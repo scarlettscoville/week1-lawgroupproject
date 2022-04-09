@@ -23,12 +23,14 @@
   - Created repository
   - Assisted team with GitHub logistics(push/pull)
 - Created "WHAT WE DO" page
+- Created custom logo
+- Created "News & Events" page
 
 **Niko** 
 
 - Collaborated with team to design website structure for all pages
 - Built "WHERE WE WORK"
-- Collaborated with team to devlope navBar
+- Collaborated with team to devlop navBar
 - 
 
 **Grady** 

@@ -51,7 +51,6 @@ h2 > hr {
 div.container {
     border-top: 2px solid darkgray;
     border-bottom: 1px solid black;
-    width: 100vw;
     margin-bottom: 100px;
     margin-top: 25px;
     padding: 10px;

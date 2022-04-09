@@ -4,6 +4,10 @@
 
 }
 
+body{
+    background-image: url(../images/nza_background.jpg);
+}
+
 div#logo {
     margin-top: 50px;
     margin-left: 35px;

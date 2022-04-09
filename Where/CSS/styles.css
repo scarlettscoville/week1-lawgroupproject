@@ -1,0 +1,88 @@
+.btn-secondary {
+    position: fixed;
+    margin-top: 0px;
+
+}
+
+div#logo {
+    margin-top: 50px;
+    margin-left: 35px;
+}
+
+img#forwardThinking {
+    width: 95%;
+    margin-left: 25px;
+}
+
+
+#footer-main { 
+    margin-top: 100px;
+
+}
+
+
+.container-where{
+    background-image: url(../images/nav_side_sub.jpg);
+    background-size: contain;
+    background-repeat: none;
+    color: white;
+    margin-left: 30%;
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+
+nav.navbar {
+    border: solid black;
+}
+
+h2 > hr {
+    border: none;
+    background-color: white;
+    height: 10px;
+
+}
+
+div.container {
+    border-top: 2px solid darkgray;
+    border-bottom: 1px solid black;
+    width: 100vw;
+    margin-bottom: 100px;
+    margin-top: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+div.col {
+    border-right: 1px solid gray;
+}
+
+div.col-address {
+    margin-top: 25px;
+}
+
+div.col-welcome {
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+div.col-last {
+    border: none;
+}
+
+ul#address {
+    list-style: none;
+}
+
+a.nav-links {
+    color: black;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+li.list-group-item{
+    color: black; 
+    border: none;
+}
+

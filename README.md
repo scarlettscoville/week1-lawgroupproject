@@ -7,10 +7,10 @@
 ---
 #### Work Flow:
 
-  Dakodah - Built "Who We Are", "Contact Us", collaborated with team to make updates and changes.
+  Dakodah - Built "Who We Are", "Contact Us", collaborated with team to make updates and changes, main.css file.
 
 
-  Scarlett - Built "What We Do", Read Me, GitHub research, created repository
+  Scarlett - Built "What We Do", Read Me, GitHub research and repository creator.
 
 
   Niko - Built "Where We Are", collaborated with team on nav bars

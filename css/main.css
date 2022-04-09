@@ -1,3 +1,9 @@
+:root {
+    --red-bg-sub-text: #FFFFFF;
+    
+}
+
+
 /* body {
     background-image: url(../images/nza_background.jpg);
     
@@ -42,14 +48,14 @@ li.list-group-item {
     background-image: url(../images/nav_side_sub.jpg);
     background-size: cover;
     background-repeat: none;
-    color: white;
+    color: var(--red-bg-sub-text);
 
 }
 li.list-group-item.where {
     background-image: url(../images/other_links_background.jpg);
     background-size: contain;
     background-repeat: none;
-    color: white;
+    
 }
 
 

@@ -8,9 +8,22 @@
 
 }
 
+button.btn.btn-secondary.directions {
+    margin: 5px;
+}
+
+button.btn.btn-secondary.career {
+    margin: 5px;
+}
+
+img.news {
+    padding: 10px;
+}
+
 div#logo {
     margin-top: 50px;
     margin-left: 35px;
+    
 }
 
 img#forwardThinking {
@@ -31,6 +44,12 @@ li.list-group-item {
     background-repeat: none;
     color: white;
 
+}
+li.list-group-item.where {
+    background-image: url(../images/other_links_background.jpg);
+    background-size: contain;
+    background-repeat: none;
+    color: white;
 }
 
 
@@ -55,7 +74,7 @@ div.container {
     text-align: center;
 }
 
-div.col {
+div.col-sm-auto {
     border-right: 1px solid gray;
 }
 
@@ -74,6 +93,7 @@ div.col-last {
 
 ul#address {
     list-style: none;
+    font-weight: 100;
 }
 
 a.nav-links {
@@ -82,3 +102,41 @@ a.nav-links {
     font-weight: 300;
 }
 
+li.list-group-item.contact {
+    margin-left: 25px;
+}
+
+p#join {
+    font-weight: 200;
+}
+img#img-contact {
+    width: 40rem;
+}
+
+ul#contact-details {
+    list-style: none;
+    padding: 0px;
+}
+
+ul.where {
+    padding-right: 25px;
+
+}
+
+h6#where-main {
+    color:brown;
+}
+
+p.where {
+    color: brown;
+    font-weight: 300;
+}
+
+h6#where-main2 {
+    color: black;
+    
+}
+p#join2 {
+    color: black;
+    font-weight: 300;
+}

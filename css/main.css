@@ -146,3 +146,12 @@ p#join2 {
     color: black;
     font-weight: 300;
 }
+
+/* "What We Do" Specific*/
+
+#wwdsb{
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+    
+}

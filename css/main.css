@@ -4,10 +4,10 @@
 }
 
 
-/* body {
+body {
     background-image: url(../images/nza_background.jpg);
     
-} */
+}
 
 .btn-secondary {
     margin-top: 0px;
@@ -28,13 +28,11 @@ img.news {
 
 div#logo {
     margin-top: 50px;
-    margin-left: 35px;
     
 }
 
 img#forwardThinking {
     width: 95%;
-    margin-left: 25px;
 }
 
 
@@ -73,8 +71,7 @@ h2 > hr {
 div.container {
     border-top: 2px solid darkgray;
     border-bottom: 1px solid black;
-    width: 100vw;
-    margin-bottom: 100px;
+    margin-bottom: 25px;
     margin-top: 25px;
     padding: 10px;
     text-align: center;

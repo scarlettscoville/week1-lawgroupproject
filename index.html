@@ -13,80 +13,114 @@
 
     
 
-      <div class="d-grid gap-2 d-md-flex justify-content-md-end m-5 mt-0">
-          <button class="btn btn-secondary" type="button">Login</button>
+  <div class="mx-auto my-4 px-5" style="width: 80vw; background-color: white;">
+
+          <div class="d-grid gap-2 d-md-flex justify-content-md-end m-5 mt-0">
+                <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" style="background-color: gray; border-color: gray;">
+  Login
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-
-        <div id="logo">
-          <img src="./images/sfslogo.png" class=" img-fluid">
+      <div class="modal-body">
+        <div class="input-group flex-nowrap">
+          <span class="input-group-text" id="addon-wrapping"></span>
+          <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
         </div>
-
-        <nav> <!-- Start of top navBar -->
-          <div class="container">
-            <div class="row row-cols-5">
-              <div class="col"><a class="nav-links" href="./index.html">WHO WE ARE</a></div>
-              <div class="col"><a class="nav-links" href="./whatwedo.html">WHAT WE DO</a></div>
-              <div class="col"><a class="nav-links" href="#">NEWS & EVENTS</a></div>
-              <div class="col"><a class="nav-links" href="./wherewework.html">WHERE WE WORK</a></div>
-              <div class="col-last"><a class="nav-links" href="./contactus.html">CONTACT US</a></div>
-            </div>
+        <div class="input-group flex-nowrap">
+          <span class="input-group-text" id="addon-wrapping"></span>
+          <input type="text" class="form-control" placeholder="Password" aria-label="Password" aria-describedby="addon-wrapping">
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Forgot Password?</button>
+        <button type="button" class="btn btn-primary">Login</button>
+      </div>
+    </div>
+  </div>
+</div>
+      </div>
+          <div id="logo">
+            <img src="./images/sfslogo.png" class=" img-fluid">
           </div>
-        </nav> <!-- End of top navBar -->
-
-              <div class="row"> <!-- Opening Container-->
-                <div class="col-md-9">
-                    <img id="forwardThinking" src="./images/nza_slideshow.jpg">
-                </div>
-                <div class="col-md-3"> <!-- Start of scroller-section -->
-                    <div class="col"><div class="overflow-auto" style="max-width: 90%; max-height: 80vh;">
-                          <ul class="list-group">
-                            <li class="list-group-item">
-                              <h2>News Feed</h2>
-                              <hr>
-                              Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque officiis nam sed labore architecto, maiores, minima voluptatum eius voluptas voluptatem repellendus vero adipisci at nostrum iusto facilis ex itaque nemo?
-                              Obcaecati, voluptatem dicta placeat officia doloribus accusantium laudantium debitis perspiciatis eligendi veniam exercitationem ea fugit officiis esse soluta rem quaerat consectetur assumenda, fugiat non maxime iusto, aperiam quidem? Nobis, aliquam.
-                              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste veniam excepturi, ipsam quam voluptatibus quasi quibusdam harum, porro quas libero nulla illo voluptates nobis? Aliquid qui exercitationem saepe illum harum?
-                              Voluptate autem nobis dolores temporibus, non delectus architecto, quis officia quam ad nostrum, optio sed repellat. Consequatur nemo at enim, corrupti quisquam ratione ullam mollitia ut iste ipsum, maiores expedita.
-                            </li>
-                          </ul>
-                    </div>
-                </div> <!-- End of scroller-section -->
-              </div> <!-- Closing Container -->
-
-              <div class="row"> <!-- Opening Container-->
-                <div class="col-sm-9">
-                  <div class="col-welcome">
-                  <p><strong> Welcome to our Website</strong></p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt omnis magni nam, explicabo iste nostrum nihil maxime ea suscipit! Deserunt laudantium saepe nesciunt mollitia assumenda vel voluptatum quo sunt qui!
-                </div>
+  
+          <nav> <!-- Start of top navBar -->
+            <div class="container">
+              <div class="row row-cols-5">
+                <div class="col"><a class="nav-links" href="./index.html">WHO WE ARE</a></div>
+                <div class="col"><a class="nav-links" href="./whatwedo.html">WHAT WE DO</a></div>
+                <div class="col"><a class="nav-links" href="#">NEWS & EVENTS</a></div>
+                <div class="col"><a class="nav-links" href="./wherewework.html">WHERE WE WORK</a></div>
+                <div class="col-last"><a class="nav-links" href="./contactus.html">CONTACT US</a></div>
               </div>
-                  <div class="col-sm-3"> 
-                        <div class="col-address">
-                            <ul id="address">
-                              <li><h6>Bigshot, Zoo & Adds, P.C.</h6</li>
-                              <li>419 West South Street, Suite 4200</li>
-                              <li>Houston, Texas 35983</li>
-                              <li>555-555-5555 (Phone)</li>
-                              <li>555-555-5555 (Fax)</li>
-                          </ul>
-                    </div>
-                </div>
-              </div> <!-- Closing Container -->
-                
-            <footer id="footer-main"> <!-- Footer main container -->
-              <nav> <!-- Start of top navBar -->
-                <div class="container">
-                  <div class="row row-cols-5">
-                    <div class="col"><a class="nav-links" href="./index.html">WHO WE ARE</a></div>
-                    <div class="col"><a class="nav-links" href="./whatwedo.html">WHAT WE DO</a></div>
-                    <div class="col"><a class="nav-links" href="#">NEWS & EVENTS</a></div>
-                    <div class="col"><a class="nav-links" href="./wherewework.html">WHERE WE WORK</a></div>
-                    <div class="col-last"><a class="nav-links" href="./contactus.html">CONTACT US</a></div>
+            </div>
+          </nav> <!-- End of top navBar -->
+  
+                <div class="row"> <!-- Opening Container-->
+                  <div class="col-md-9">
+                      <img id="forwardThinking" src="./images/nza_slideshow.jpg">
+                  </div>
+                  <div class="col-md-3"> <!-- Start of scroller-section -->
+                      <div class="col"><div class="overflow-auto" style="max-width: 90%; max-height: 80vh;">
+                            <ul class="list-group">
+                              <li class="list-group-item">
+                                <h2>News Feed</h2>
+                                <hr>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque officiis nam sed labore architecto, maiores, minima voluptatum eius voluptas voluptatem repellendus vero adipisci at nostrum iusto facilis ex itaque nemo?
+                                Obcaecati, voluptatem dicta placeat officia doloribus accusantium laudantium debitis perspiciatis eligendi veniam exercitationem ea fugit officiis esse soluta rem quaerat consectetur assumenda, fugiat non maxime iusto, aperiam quidem? Nobis, aliquam.
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste veniam excepturi, ipsam quam voluptatibus quasi quibusdam harum, porro quas libero nulla illo voluptates nobis? Aliquid qui exercitationem saepe illum harum?
+                                Voluptate autem nobis dolores temporibus, non delectus architecto, quis officia quam ad nostrum, optio sed repellat. Consequatur nemo at enim, corrupti quisquam ratione ullam mollitia ut iste ipsum, maiores expedita.
+                              </li>
+                            </ul>
+                      </div>
+                  </div> <!-- End of scroller-section -->
+                </div> <!-- Closing Container -->
+  
+                <div class="row"> <!-- Opening Container-->
+                  <div class="col-sm-9">
+                    <div class="col-welcome">
+                    <p><strong> Welcome to our Website</strong></p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt omnis magni nam, explicabo iste nostrum nihil maxime ea suscipit! Deserunt laudantium saepe nesciunt mollitia assumenda vel voluptatum quo sunt qui!
                   </div>
                 </div>
-              </nav> <!-- End of top navBar -->
-            </footer> <!-- Footer main container -->
-        </main>
+                    <div class="col-sm-3"> 
+                          <div class="col-address">
+                              <ul id="address">
+                                <li><h6>Bigshot, Zoo & Adds, P.C.</h6</li>
+                                <li>419 West South Street, Suite 4200</li>
+                                <li>Houston, Texas 35983</li>
+                                <li>555-555-5555 (Phone)</li>
+                                <li>555-555-5555 (Fax)</li>
+                            </ul>
+                      </div>
+                  </div>
+                </div> <!-- Closing Container -->
+                  
+              <footer id="footer-main"> <!-- Footer main container -->
+                <nav> <!-- Start of top navBar -->
+                  <div class="container">
+                    <div class="row row-cols-5">
+                      <div class="col"><a class="nav-links" href="./index.html">WHO WE ARE</a></div>
+                      <div class="col"><a class="nav-links" href="./whatwedo.html">WHAT WE DO</a></div>
+                      <div class="col"><a class="nav-links" href="#">NEWS & EVENTS</a></div>
+                      <div class="col"><a class="nav-links" href="./wherewework.html">WHERE WE WORK</a></div>
+                      <div class="col-last"><a class="nav-links" href="./contactus.html">CONTACT US</a></div>
+                    </div>
+                  </div>
+                </nav> <!-- End of top navBar -->
+              </footer> <!-- Footer main container -->
+            </main>
+          
+      </div>
+
+        
        
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>   
 </body>

@@ -1,9 +1,10 @@
 # Week 1 - Law Office Website Project
 
-# Dream Team:
+## Dream Team:
 
 ### Dakodah, Scarlett, Niko, and Grady
 
+---
 #### Work Flow:
 
   **Dakodah** 

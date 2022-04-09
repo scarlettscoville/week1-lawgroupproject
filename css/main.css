@@ -1,7 +1,13 @@
-/* body {
+ body {
     background-image: url(../images/nza_background.jpg);
-    
-} */
+    /*background-repeat: no-repeat;*/
+
+}
+
+#main{
+    background-color: white;
+
+}
 
 .btn-secondary {
     margin-top: 0px;
@@ -9,18 +15,19 @@
 }
 
 div#logo {
-    margin-top: 50px;
-    margin-left: 35px;
+    margin-top: 40px;
+    /*margin-left: 35px;*/
 }
 
 img#forwardThinking {
     width: 95%;
-    margin-left: 25px;
+    /*margin-left: 25px;*/
 }
 
 
-#footer-main { 
-    margin-top: 100px;
+#footer-main {
+    /*border-bottom: 0px solid;*/
+    /*margin-top: 100px;*/
 
 }
 
@@ -48,23 +55,23 @@ h2 > hr {
 div.container {
     border-top: 2px solid darkgray;
     border-bottom: 1px solid black;
-    width: 100vw;
-    margin-bottom: 100px;
+    /*width: 73vw;*/
+    margin-bottom: 25px;
     margin-top: 25px;
     padding: 10px;
     text-align: center;
 }
 
-div.col {
+/*div.col {
     border-right: 1px solid gray;
-}
+}*/
 
 div.col-address {
     margin-top: 25px;
 }
 
 div.col-welcome {
-    margin-left: 25px;
+    /*margin-left: 25px;*/
     margin-top: 25px;
 }
 

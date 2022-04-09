@@ -12,7 +12,7 @@
   Scarlett - Built "What We Do", Read Me, GitHub research, created repository
 
 
-  Niko - Built "Contact Us"
+  Niko - Built "Contact Us", collaborated with team on nav bars
 
 
-  Grady - 
+  Grady - Collaborated with team on nav bars, background image

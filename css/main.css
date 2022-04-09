@@ -46,7 +46,7 @@ img#forwardThinking {
 
 li.list-group-item {
     background-image: url(../images/nav_side_sub.jpg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: none;
     color: var(--red-bg-sub-text);
 

@@ -7,33 +7,35 @@
 ---
 #### Work Flow:
 
-  **Dakodah** 
+**Dakodah** 
 
-  - Collaborated with team to design website structure for all pages
-  - Collaborated with team to build "WHO WE ARE"
-  - Created "Contact Us" page
-  - Collaborated with team to make updates and changes.
+- Collaborated with team to design website structure for all pages
+- Collaborated with team to build "WHO WE ARE"
+- Created "Contact Us" page
+  - Modal buttons for "Direction & Parking" & "Career Opportunities"
+- Collaborated with team to make updates and changes.
 
+**Scarlett**
 
-  **Scarlett**
-
-  - Collaborated with team to design website structure for all pages
-  - Constructed "README" markdown file 
-  - GitHub research 
+- Collaborated with team to design website structure for all pages
+- Constructed "README" markdown file 
+- GitHub research 
   - Created repository
-  - Created "WHAT WE DO" page
+  - Assisted team with GitHub logistics(push/pull)
+- Created "WHAT WE DO" page
 
+**Niko** 
 
-  **Niko** 
+- Collaborated with team to design website structure for all pages
+- Built "WHERE WE WORK"
+- Collaborated with team to devlope navBar
+- 
 
-  - Collaborated with team to design website structure for all pages
-  - Built "WHERE WE WORK"
-  - Collaborated with team to devlope navBar
-  - 
+**Grady** 
 
-
-  **Grady** 
-
-  - Collaborated with team to design website structure for all pages
-  - Collaborated with team on nav bars
-  - Background image
+- Collaborated with team to design website structure for all pages
+- Collaborated with team on navBar design
+- Background image
+- Built CSS/HTML code for main background image and container for content
+- Modal for login button
+- Collaborated with team on nav bars, background image, page spacing

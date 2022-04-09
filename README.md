@@ -10,7 +10,7 @@
   **Dakodah** 
 
   - Collaborated with team to design website structure for all pages
-  - Collaborated with team to build "Who We Are"
+  - Collaborated with team to build "WHO WE ARE"
   - Created "Contact Us" page
   - Collaborated with team to make updates and changes.
 
@@ -18,19 +18,22 @@
   **Scarlett**
 
   - Collaborated with team to design website structure for all pages
-  - Constructed "Read Me" markdown file 
+  - Constructed "README" markdown file 
   - GitHub research 
   - Created repository
-  - Created "What We Do" page
+  - Created "WHAT WE DO" page
 
 
   **Niko** 
-  
-  - Built "C
+
+  - Collaborated with team to design website structure for all pages
+  - Built "WHERE WE WORK"
   - Collaborated with team to devlope navBar
   - 
 
 
   **Grady** 
+
+  - Collaborated with team to design website structure for all pages
   - Collaborated with team on nav bars
   - Background image

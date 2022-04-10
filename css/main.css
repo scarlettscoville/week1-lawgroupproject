@@ -1,17 +1,16 @@
 :root {
     --red-bg-sub-text: #FFFFFF;
+    --white-bg-brown-subtxt: #964B00;
+    --white-bg-black-subtxt: #000000;
     
 }
 
-
 body {
-    background-image: url(../images/nza_background.jpg);
-    
+    background-image: url(../images/nza_background.jpg); 
 }
 
 .btn-secondary {
     margin-top: 0px;
-
 }
 
 button.btn.btn-secondary.directions {
@@ -28,7 +27,6 @@ img.news {
 
 div#logo {
     margin-top: 50px;
-    
 }
 
 img#forwardThinking {
@@ -38,7 +36,6 @@ img#forwardThinking {
 
 #footer-main { 
     margin-top: 25px;
-
 }
 
 #sidebar{
@@ -99,13 +96,14 @@ ul#address {
 }
 
 a.nav-links {
-    color: black;
+    color: var(--white-bg-black-subtxt);
     text-decoration: none;
     font-weight: 300;
 }
 
 li.list-group-item.contact {
     margin-left: 25px;
+    
 }
 
 p#join {
@@ -126,20 +124,20 @@ ul.where {
 }
 
 h6#where-main {
-    color:brown;
+    color: var(--white-bg-brown-subtxt);
 }
 
 p.where {
-    color: brown;
+    color: var(--white-bg-brown-subtxt);
     font-weight: 300;
 }
 
 h6#where-main2 {
-    color: black;
+    color: var(--white-bg-black-subtxt);
     
 }
 p#join2 {
-    color: black;
+    color: var(--white-bg-black-subtxt);
     font-weight: 300;
 }
 

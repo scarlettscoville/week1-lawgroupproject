@@ -41,8 +41,7 @@ img#forwardThinking {
 
 }
 
-
-li.list-group-item {
+#sidebar{
     background-image: url(../images/nav_side_sub.jpg);
     background-size: cover;
     background-repeat: none;
@@ -144,11 +143,29 @@ p#join2 {
     font-weight: 300;
 }
 
-/* "What We Do" Specific*/
+/* Image Specific CSS */
 
 #wwdsb{
     display: block;
     margin: auto;
     padding-bottom: 10px;
     
+}
+
+#wwwmap{
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+#lawyers{
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+#cusb{
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
 }

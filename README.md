@@ -25,6 +25,7 @@
 - Created "WHAT WE DO" page
 - Created custom logo
 - Created "News & Events" page
+- Created favicon image and added to html
 
 **Niko** 
 

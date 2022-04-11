@@ -17,4 +17,11 @@ h5{
     border-bottom: 2px solid;
     padding-bottom: 10px;
     border-color: grey; 
+}  
+div.container-footer{
+    border-top: 2px solid black;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    padding: 10px;
 }
+

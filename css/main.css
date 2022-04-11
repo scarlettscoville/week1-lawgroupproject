@@ -65,8 +65,8 @@ h2 > hr {
 }
 
 div.container {
-    border-top: 2px solid darkgray;
-    border-bottom: 1px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
     margin-bottom: 25px;
     margin-top: 25px;
     padding: 10px;
@@ -174,4 +174,10 @@ p#join2 {
     left: 0;
     width: 100%;
     height: 100%;
+}
+div.container-footer{
+    border-top: 2px solid black;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    padding: 10px;
 }

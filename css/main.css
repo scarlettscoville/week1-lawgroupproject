@@ -2,6 +2,7 @@
     --red-bg-sub-text: #FFFFFF;
     --white-bg-brown-subtxt: #964B00;
     --white-bg-black-subtxt: #000000;
+    --background-color-white: #FFFFFF;
     
 }
 
@@ -59,7 +60,7 @@ nav.navbar {
 
 h2 > hr {
     border: none;
-    background-color: white;
+    background-color: var(--background-color-white);
     height: 10px;
 
 }

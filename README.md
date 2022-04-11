@@ -14,7 +14,7 @@
 - Created "Contact Us" page
   - Modal buttons for "Direction & Parking" & "Career Opportunities"
 - Collaborated with team to make updates and changes.
-- Added simply JavaScript text to "NEWS & EVENTS" page that opens modal on page load
+- Added simple JavaScript text to "NEWS & EVENTS" page that opens modal on page load
 - Organized code structure
 
 **Scarlett**

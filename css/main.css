@@ -6,6 +6,7 @@
     
 }
 
+/* Style on all pages */
 body {
     background-image: url(../images/nza_background.jpg); 
 }
@@ -30,13 +31,16 @@ div#logo {
     margin-top: 50px;
 }
 
+footer#footer-main { 
+    margin-top: 25px;
+    text-align: center;
+    
+}
+/* Style on all pages */
+
+/* Style on 'Who We Are' page */
 img#forwardThinking {
     width: 95%;
-}
-
-
-#footer-main { 
-    margin-top: 25px;
 }
 
 #sidebar{
@@ -46,6 +50,7 @@ img#forwardThinking {
     color: var(--red-bg-sub-text);
 
 }
+
 li.list-group-item.where {
     background-image: url(../images/other_links_background.jpg);
     background-size: contain;
@@ -103,8 +108,7 @@ a.nav-links {
 }
 
 li.list-group-item.contact {
-    margin-left: 25px;
-    
+    margin-left: 25px; 
 }
 
 p#join {
@@ -176,9 +180,42 @@ p#join2 {
     width: 100%;
     height: 100%;
 }
+
 div.container-footer{
     border-top: 2px solid black;
     margin-bottom: 25px;
     margin-top: 25px;
     padding: 10px;
+}
+
+h2 > hr {
+    border: none;
+    background-color: white;
+    height: 10px;
+
+}
+
+li.list-group-item-1{
+    color: black; 
+    border: none;
+    list-style-type: none;
+    padding-bottom: 30px;
+    line-height: 5px;
+}
+
+h5 {
+    border-bottom: 2px solid;
+    padding-bottom: 10px;
+    border-color: grey; 
+}  
+
+div.container-footer {
+    border-top: 2px solid black;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+span.background.bg-darkred {
+    background-color: #943434;
 }
